@@ -1,0 +1,15 @@
+{
+    "name": "com.dedalord.xpromo",
+    "references": [
+        "Unity.TextMeshPro.Editor",
+        "Unity.TextMeshPro"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
