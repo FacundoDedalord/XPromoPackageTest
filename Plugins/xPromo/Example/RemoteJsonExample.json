@@ -1,0 +1,83 @@
+{
+  "assetsURL": "https://www.dedalord.com/tmp",
+  "surfaceAfterDays": 3,
+  "games": [
+    {
+      "game": "Blackout",
+      "campaignId": "BlackOut-Campaign1",
+      "maxViews": 50,
+      "maxViewsDay": 10,
+      "prob": 100,
+      "startDate": 0,
+      "endDate": 0,
+      "video": "blackoutblitz-1.mp4",
+      "gameScreenshot": "",
+      "gameLogo": "bigrunsolitairelogo.png",
+      "buttonText": "NewGame",
+      "embeddedPrefab": "",
+      "linkiOS": "https://apps.apple.com/us/app/blackout-blitz/id1464235676",
+      "linkSkillz": "https://skillz-content-prod.s3.amazonaws.com/devportal2/uploads/game_binary/file/7778/BlackoutBlitz-Skillz1574201372.apk",
+      "linkSamsung": "http://galaxystore.samsung.com/detail/com.bigrunstudios.blackoutblitz?session_id=W_393f744b120880d6b730c54a254c3a9d"
+    },
+    {
+      "game": "Blackout",
+      "campaignId": "BlackOut-Campaign2",
+      "maxViews": 50,
+      "maxViewsDay": 10,
+      "prob": 100,
+      "startDate": 0,
+      "endDate": 0,
+      "video": "",
+      "gameScreenshot": "blackout-ad1.png",
+      "gameLogo": "bigrunsolitairelogo.png",
+      "buttonText": "NewGame",
+      "embeddedPrefab": "",
+      "linkiOS": "https://apps.apple.com/us/app/blackout-blitz/id1464235676",
+      "linkSkillz": "https://skillz-content-prod.s3.amazonaws.com/devportal2/uploads/game_binary/file/7778/BlackoutBlitz-Skillz1574201372.apk",
+      "linkSamsung": "http://galaxystore.samsung.com/detail/com.bigrunstudios.blackoutblitz?session_id=W_393f744b120880d6b730c54a254c3a9d"
+    },
+    {
+      "game": "Solitaire",
+      "campaignId": "Solitaire-Campaign1",
+      "maxViews": 50,
+      "maxViewsDay": 10,
+      "prob": 100,
+      "startDate": 0,
+      "endDate": 0,
+      "video": "",
+      "gameScreenshot": "",
+      "gameLogo": "",
+      "buttonText": "",
+      "embeddedPrefab": "xPromoSolitaireCampaign1",
+      "linkiOS": "https://bigrunstudios.com/",
+      "linkSkillz": "https://bigrunstudios.com/",
+      "linkSamsung": "https://bigrunstudios.com/"
+    }
+  ],
+  "localization": [
+    {
+      "id": "NewGame",
+      "textEN": "NEW GAME",
+      "textES": "NUEVO JUEGO",
+      "textDE": "SPIELREGELN",
+      "textFR": "COMMENT JOUER",
+      "textIT": "COME SI GIOCA",
+      "textPT": "COMO JOGAR",
+      "textZH": "游戏方法",
+      "textJA": "遊び方",
+      "textRU": "КАК ИГРАТЬ"
+    },
+    {
+      "id": "PlayForFree",
+      "textEN": "PLAY FOR FREE",
+      "textES": "JUEGA GRATIS",
+      "textDE": "PLAY FOR FREE",
+      "textFR": "PLAY FOR FREE",
+      "textIT": "PLAY FOR FREE",
+      "textPT": "PLAY FOR FREE",
+      "textZH": "PLAY FOR FREE",
+      "textJA": "PLAY FOR FREE",
+      "textRU": "PLAY FOR FREE"
+    }
+  ]
+}
