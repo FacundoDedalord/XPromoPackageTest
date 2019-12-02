@@ -64,7 +64,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 0}
+  m_Texture: {fileID: 2800000, guid: 06bc959d94d9b42899020cff9b46fa25, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 7532464419933683384}
   - component: {fileID: 5030007334581604846}
   m_Layer: 5
-  m_Name: TMP SubMeshUI [Quicksand-Bold SDF xpromo + Font Cyrillic SDF Atlas]
+  m_Name: TMP SubMeshUI [Quicksand-Bold SDF Material + Font Cyrillic SDF Atlas]
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -224,7 +224,8 @@ MonoBehaviour:
   m_text: NEW GAME
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ed734d13463c4474e9dc2e5fdcb21322, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: 5614cd3efbe324d41a5bbeef5c8b8320, type: 2}
+  m_sharedMaterial: {fileID: 21185194721496786, guid: ed734d13463c4474e9dc2e5fdcb21322,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -531,7 +532,7 @@ GameObject:
   - component: {fileID: 5997077907988459049}
   - component: {fileID: 5997077907988459048}
   m_Layer: 5
-  m_Name: xPromoSolitaireCampaign1
+  m_Name: xPromoSolitaireCampaign
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -703,7 +704,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 56692cc94fd444b5c969b0c889571220, type: 3}
+  m_Texture: {fileID: 2800000, guid: 56f43861f0a2b43ecbae2fc91146a170, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
