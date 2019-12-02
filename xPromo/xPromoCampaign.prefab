@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 7532464419933683384}
   - component: {fileID: 5030007334581604846}
   m_Layer: 5
-  m_Name: TMP SubMeshUI [Quicksand-Bold SDF Material + Font Cyrillic SDF Atlas]
+  m_Name: TMP SubMeshUI [Quicksand-Bold SDF Material + LiberationSans SDF Atlas]
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -148,12 +148,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_fontAsset: {fileID: 11400000, guid: a283bd01fefdd4a1dab6369aac6a6f10, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 54cfba4d7dbb14bb7af1982713dd2f89, type: 2}
   m_spriteAsset: {fileID: 0}
   m_material: {fileID: 0}
   m_sharedMaterial: {fileID: 0}
   m_isDefaultMaterial: 0
-  m_padding: 6.125
+  m_padding: 8.562499
   m_canvasRenderer: {fileID: 7532464419933683384}
   m_TextComponent: {fileID: 7665141978684604872}
   m_materialReferenceIndex: 1
@@ -223,8 +223,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: NEW GAME
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ed734d13463c4474e9dc2e5fdcb21322, type: 2}
-  m_sharedMaterial: {fileID: 21185194721496786, guid: ed734d13463c4474e9dc2e5fdcb21322,
+  m_fontAsset: {fileID: 11400000, guid: 015023fd37d134f76bfc110d4c05bef3, type: 2}
+  m_sharedMaterial: {fileID: 21185194721496786, guid: 015023fd37d134f76bfc110d4c05bef3,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 43.95
+  m_fontSize: 54.25
   m_fontSizeBase: 54.08
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0bef49c8e6715449cba6a6293ee44c3c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8c9b404f5d230482a81c922fd03bd712, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -861,7 +861,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 143c03ff612bf47e0942ff35185ce42f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 73d82dac4d9214b1b8c3f7034ca5bea7, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1

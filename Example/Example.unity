@@ -567,8 +567,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: PLAY NOW
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 54cfba4d7dbb14bb7af1982713dd2f89, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 54cfba4d7dbb14bb7af1982713dd2f89, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -675,12 +675,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_fontAsset: {fileID: 11400000, guid: a283bd01fefdd4a1dab6369aac6a6f10, type: 2}
+  m_fontAsset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_material: {fileID: 0}
   m_sharedMaterial: {fileID: 0}
   m_isDefaultMaterial: 0
-  m_padding: 6.125
+  m_padding: 0
   m_canvasRenderer: {fileID: 1125459758703718900}
   m_TextComponent: {fileID: 2428504255755262229}
   m_materialReferenceIndex: 1
